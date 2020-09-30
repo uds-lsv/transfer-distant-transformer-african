@@ -37,7 +37,7 @@ python run.py
 within the Singularity container. You will have to download the data beforehand and change the paths in the configurations to match the settings on your machine (those marked in the code with *#CHANGE_ME*).
 
 ## Results
-We provide a table with all the experimental scores including F1-scores for each run as well as the mean and standard error. This table can be found in */results/all_results.csv*.
+We provide a table with the experimental scores including F1-scores for each run as well as the mean and standard error. This table can be found in */results/results.csv*.
 
 ## Contact & Citation
 If you have any questions or encounter any issues, feel free to contact the first author (Michael; email address in the paper). 
