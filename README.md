@@ -10,6 +10,7 @@ This is the repository for the publication
 >
 > EMNLP 2020
 >
+> https://www.aclweb.org/anthology/2020.emnlp-main.204/
 
 This repository contains
 
@@ -45,10 +46,21 @@ If you have any questions or encounter any issues, feel free to contact the firs
 If you use this work, please cite us as
 
 ```
-@InProceedings{Hedderich2020TransferDistantTransformerAfrican,
-  author = "Michael A. Hedderich and David Adelani and Dawei Zhu and Jesujoba Alabi and Udia Markus and Dietrich Klakow ",
-  title = "Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages",
-  booktitle = "To appear in the Proceedings of the 2029 Conference on Empirical Methods in Natural Language Processing  (EMNLP)",
-  year = "2020"
+@inproceedings{hedderich-etal-2020-transfer,
+    title = "Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on {A}frican Languages",
+    author = "Hedderich, Michael A.  and
+      Adelani, David  and
+      Zhu, Dawei  and
+      Alabi, Jesujoba  and
+      Markus, Udia  and
+      Klakow, Dietrich",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.204",
+    pages = "2580--2591",
+}
 }
 ```
