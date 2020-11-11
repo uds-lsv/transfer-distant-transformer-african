@@ -62,5 +62,4 @@ If you use this work, please cite us as
     url = "https://www.aclweb.org/anthology/2020.emnlp-main.204",
     pages = "2580--2591",
 }
-}
 ```
